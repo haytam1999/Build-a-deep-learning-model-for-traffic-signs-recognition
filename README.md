@@ -1,5 +1,5 @@
-# Build-a-machine-learning-model-for-traffic-signs-recognition
-We are going to build a machine learning model with which we can do traffic sign detection and recognition, from a video stream captured by the car camera.
+# Build-a-deep-learning-model-for-traffic-signs-recognition
+We are going to build a deep learning model with which we can do traffic sign detection and recognition, from a video stream captured by the car camera.
 
 The training of this model is based on the convolutional neural networks (CNN) which allows to extract the features and the characteristics of an image on which it is based to make the prediction during the part of the real recognition.
 To implement the CNN, we will use the TensorFlow Keras API, which facilitates the construction of the different layers of the neural network.
